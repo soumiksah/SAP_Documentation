@@ -1,0 +1,55 @@
+write a html code to describe yourself with the help of heading, paragraph, anchor, image and line brake tags and give the meta information also on the html and doctype also mention
+
+write a html code to add your skills as orderd list and add your hobby as un-ordered list.
+
+write a html code to create form with all input field and add video and audio also to the form and use block level element to segregate them
+
+write a html code to create table with 3 row and cloumn, and add audio and video also as row value, and add a iframe also
+
+write a html code to describe about 3 topic and topic will be surrounded by border and add padding also and add style using css
+
+write a html code to describe about 3 topic and topic will be surrounded by border, and will be float by left. and add margin and padding
+
+write a html code to float some element to left and keep remaining as it is.
+
+write a html code where add 3 image with low clarity and after mouse hover it should show the perfection.
+
+write a html code where create a table having multiple row and the even and odd row should have different color to identify
+
+write a javaScript program to iterate the array using for loop and for each loop. 
+
+write a javaScript program to iterate object using loop.
+
+write a html code, where after click the button it should show the alert popup.
+
+write a html code, where user give the credentails and it should validate the user input
+
+write a javascript program for asynchronous programming and call-back function.
+
+write a html code, where we can change the css at runtime using javaScript.
+
+write a html code, where we can generate dynamic text in the html page with the help of JavaScript
+
+write a html code, where we can change the css at runtime using jQuery
+
+write a html code, where we can Hide, Show, fadeIn and FadeOut element using jQuery
+
+write a html code, where we can fadeIn and FadeOut element and after done it should show an elert, with the help of call back and asynchronous programming
+
+write a html code, where we can animate input field using JQuery.
+
+write a html code, where we can animate input field using JQuery and use a callBack function.
+
+write a html code, where we can animate input field using JQuery and use a callBack function and function recursion
+
+write a html code, where we can see the corona confirmed cases for any state using Ajax.
+
+write a program to manipulate 2 numbers, using custom module.
+
+write a program to create server request using express module and use res.send(), res.sendFile()
+
+write a program to read file using fs module and user readFile, readFileSync
+
+write a program to create server request using express module and use query parameter
+
+write a program to create multiple server request, where you need to use app.use(express.static('{fileName}'));
