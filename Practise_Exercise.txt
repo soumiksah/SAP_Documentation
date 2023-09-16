@@ -53,3 +53,7 @@ write a program to read file using fs module and user readFile, readFileSync
 write a program to create server request using express module and use query parameter
 
 write a program to create multiple server request, where you need to use app.use(express.static('{fileName}'));
+
+Write a program where define the bootstrap UI5 framework, create a view object, place the object to html element. And run the program using ui5 serve command
+
+Wap to create a button and link using SapUi5
